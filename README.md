@@ -8,7 +8,8 @@
 </p>
 
 ## Projeto Acnot 
-Template 
+Desenvolvimento em Laravel
+Utilizando template
 
 ## License
 
